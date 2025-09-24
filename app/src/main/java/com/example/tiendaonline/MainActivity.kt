@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Revision de git pull $name!",
+        text = "confirmacion de que todo esta correcto $name!",
         modifier = modifier
     )
 }
